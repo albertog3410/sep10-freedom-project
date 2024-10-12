@@ -6,10 +6,13 @@ The topic that I have chosen to work on for this project is Graphic Design becau
 ## Engineering Design Process
 I am currently on the first stage of the Engineering Design Process, which is to define the problem. Currently, we did not have the time to research any known problems relating to Graphic Design. However, I have seen online that there is a massive need for Graphic Designers in the UK, so I have a problem that I could start out with once I start on the project. After this, we will then do more research about the topic we are passionate about and research about how our topic is related to technology.
 ## Skills
-<p> Throughout my class time in the Software Engineering Program, I have learned skills such as time management and communication skills. </p>
+<p> Throughout my class time in the Software Engineering Program, I have learned skills such as time management and communication skills.</p> 
 
-<p> </p>
+### Why Communication?
+<p> Knowing the value of communication in our lives is an important element in a lot of jobs and careers in the world. Especially when it comes to Graphic Design because effective communication with your teams will help you understand what you can or can not do in your design that you will share to the world. This can also be applied outside of the Graphic Design career as it will help you with your life outside of your future career and develop a sense of trust and reliability with other people. Knowing how to communicate with peers is also important for my project in case there is someone who is also doing the same topic as me. If I ever do find someone in my class that is doing the same topic as me, me and that person would have to colaberate effectively in order so that both of us can finish our projects.  </p>
 
-[Next](entry02.md)
+### Why Time Management?
+<p> In our everday lives, we are always busy with something, whether if its school, work, family, hobbies, chores, or even having time to catch up on sleep. For me its usually school assignments, upcoming tests or quizzes, and even youth meetings and classes at the church I go to. Now with the this project that I will soon work on, knowing how to effectiely manage my time is going to help have the time I need to finish my year long project and catch up everything else that I do throughout the days. </p>
 
-[Home](../README.md)
+## Final Thoughts
+<p> I am really excited to learn more about how Graphic Design is used as I continue this project. I am also as eagar to learn more of these lessons in the Software Engineering Program that will help me grow and mature in the future career that I am studying for in this project! </p>
