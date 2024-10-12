@@ -6,7 +6,10 @@ The topic that I have chosen to work on for this project is Graphic Design becau
 ## Engineering Design Process
 I am currently on the first stage of the Engineering Design Process, which is to define the problem. Currently, we did not have the time to research any known problems relating to Graphic Design. However, I have seen online that there is a massive need for Graphic Designers in the UK, so I have a problem that I could start out with once I start on the project. After this, we will then do more research about the topic we are passionate about and research about how our topic is related to technology.
 ## Skills
-<p> Throughout my class time in the Software Engineering Program, I have learned skills such as time management and communication skills. I praticed these skills through group activities and   </p>
+<p> Throughout my class time in the Software Engineering Program, I have learned skills such as time management and communication skills. </p>
+
+<p> </p>
+
 [Next](entry02.md)
 
 [Home](../README.md)
