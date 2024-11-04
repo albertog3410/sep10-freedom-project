@@ -1,7 +1,7 @@
-# Entry 2
+# Graphic Design (Software and Hardware) 
 ##### 11/4/2024
 
-Text
+### 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
