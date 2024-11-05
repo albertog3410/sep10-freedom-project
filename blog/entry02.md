@@ -28,7 +28,8 @@
 *  <strong>VRAM,</strong> also known as video random access memory, which is used to store memory for a dedicated Graphics card.
 * <strong>Processors/CPUs,</strong> which stands for central processing unit, runs all of the computers systems and directs all the other computer components.
 
-  ### 
+  ### Final Thoughts
+  <p> Overall, I am excited to learn more about how Graphic Design is used as I continue this project. </p>
 
 
 
