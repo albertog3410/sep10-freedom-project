@@ -26,7 +26,9 @@
 * <strong>GPUs,</strong> which stands for Graphics Processing Unit. This hardware processes vast amounts of graphical data.
 *  <strong>Dedicated Graphics Cards,</strong> which is a separate hardware component in a computer that enhances visual performance by having its own GPU and dedicated memory. A Dedicated Graphics card relies on its own memory, so it can clear graphics quickly, enabling video editing and complex graphic design.
 *  <strong>VRAM,</strong> also known as video random access memory, which is used to store memory for a dedicated Graphics card.
-* <strong>Processors/CPUs,</strong> which stands for central processing unit, 
+* <strong>Processors/CPUs,</strong> which stands for central processing unit, runs all of the computers systems and directs all the other computer components.
+
+  ### 
 
 
 
