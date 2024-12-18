@@ -1,7 +1,8 @@
-# Entry 3
-##### X/X/XX
+# Ideas for Future Graphic Design Innovations
+##### 12/18/2024
 
-Text
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
