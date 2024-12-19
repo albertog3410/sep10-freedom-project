@@ -2,7 +2,7 @@
 ##### 12/18/2024
 
 ### Where I am at Now
-So far, I already came up with an idea of a new innovation in the technologial of Graphic Design will look like.
+In my SEP10 freedom project, I had to come up with an idea of an invention that may exist in the future of the technological world of Graphic Design. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
