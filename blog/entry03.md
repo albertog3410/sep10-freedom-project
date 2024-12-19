@@ -13,8 +13,8 @@ When first starting this part of my freedom project, I had no idea of how I was 
 ### Skills I Learned
 From this experience, I learned how to <strong>develop my creativity</strong> in my year-long project as I was able to envision a possible way to keep the quality of graphics stable when Graphic Designers are on softwares that may require high memory clock speed. As well as paying <strong>Attention to detail</strong> when realizing what can be improved about the softwares and hardwares used in Graphic Design. 
 
-### 
-
+### Final Thoughts 
+Overall, I am excited to see how I can use the information I gathered now into a full website!
 
 
 [Previous](entry02.md) | [Next](entry04.md)
