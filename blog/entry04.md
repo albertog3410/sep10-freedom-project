@@ -8,7 +8,8 @@ So far, I had already decided to use a tool known as <a href="https://bulma.io/"
 
 
 
-
+## Skills I learned 
+At first it was really overwhelming when tinkering with Bulma.io because of the many elements and uses it had to offer and I did not know where to start. That was when Mr.Mueller told me to watch tutorial videos on Youtube to help me understand how to use my chosen tool. Watching these videos has really helped me narrow down my options on what I can have time to use and what may not be important for when I create my website about Graphic Design. From this I learned how to <strong> effectively manage my time</strong> and <strong> how to comprehend new material</strong>, helping me learn more about Bulma.io.
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
