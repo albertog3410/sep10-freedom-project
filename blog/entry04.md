@@ -2,7 +2,7 @@
 ##### 2/24/2025
 
 ## Where I am at Now
-So far, I had already decided to use a tool known as <a href="https://bulma.io/">Bulma.io</a> when I start my SEP10 Freedom Project. 
+So far, I had already decided to use a tool known as <a href="https://bulma.io/">Bulma.io</a> when I start my SEP10 Freedom Project. I tinkered with Bulma.io in my IDE's HTML and CSS files and at the same time, had a preview link of what the website would of looked like on the side. There were many options and elements that this tool provided, I have watched a couple of videos that broke down the basics of using Bulma.io so I will know where I can start. I also taken notes on the different elements that Bulma.io offers so that I could use them later on. 
 
 
 
