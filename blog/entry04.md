@@ -2,7 +2,47 @@
 ##### 2/24/2025
 
 ## Where I am at Now
-So far, I had already decided to use a tool known as <a href="https://bulma.io/">Bulma.io</a> when I start my SEP10 Freedom Project. I tinkered with Bulma.io in my IDE's HTML and CSS files and at the same time, had a preview link of what the website would of looked like on the side. There were many options and elements that this tool provided, I have watched a couple of videos that broke down the basics of using Bulma.io so I will know where I can start. Two videos that I used for my tinkering are from <a href="https://www.youtube.com/watch?v=SCSAExGFK1E&t=245s"> Net Ninja</a> and <a href="https://www.youtube.com/watch?v=u-oOdhS4Fc4">SteffOverflow</a>. I also taken notes on the different elements that Bulma.io offers so that I could use them later on. Using all that I have been able to comprehend from these videos, I created a website that incoporates Bulma.io styling and columns. Even though I did not finish it, it was good for me to learn how to use Bulma.io myself in HTML and CSS. 
+So far, I had already decided to use a tool known as <a href="https://bulma.io/">Bulma.io</a> when I start my SEP10 Freedom Project. I tinkered with Bulma.io in my IDE's HTML and CSS files and at the same time, had a preview link of what the website would of looked like on the side. There were many options and elements that this tool provided, I have watched a couple of videos that broke down the basics of using Bulma.io so I will know where I can start. Two videos that I used for my tinkering are from <a href="https://www.youtube.com/watch?v=SCSAExGFK1E&t=245s"> Net Ninja</a> and <a href="https://www.youtube.com/watch?v=u-oOdhS4Fc4">SteffOverflow</a>. I also taken notes on the different elements that Bulma.io offers so that I could use them later on. Some code that I saved for later use are: 
+
+Menus:
+
+```
+<p class="menu-label">General</p>
+       <ul class="menu-list">
+```
+
+Dropdown button with content, can be used for anchor links. 
+
+```
+<div class="dropdown is-active">
+  <div class="dropdown-trigger">
+    <button class="button" aria-haspopup="true" aria-controls="dropdown-menu2">
+      <span>Content</span>
+      <span class="icon is-small">
+        <i class="fas fa-angle-down" aria-hidden="true"></i>
+      </span>
+    </button>
+  </div>
+  <div class="dropdown-menu" id="dropdown-menu2" role="menu">
+    <div class="dropdown-content">
+      <div class="dropdown-item">
+        <p>
+          You can insert <strong>any type of content</strong> within the
+          dropdown menu.
+        </p>
+      </div>
+      <hr class="dropdown-divider" />
+      <div class="dropdown-item">
+        <p>You simply need to use a <code>&lt;div&gt;</code> instead.</p>
+      </div>
+      <hr class="dropdown-divider" />
+      <a href="#" class="dropdown-item"> This is a link </a>
+    </div>
+  </div>
+</div>
+```
+
+Using all that I have been able to comprehend from these videos, I created a website about what Github is that incoporates Bulma.io styling and columns. Even though I did not finish it, it was good for me to learn how to use Bulma.io myself in HTML and CSS. I was not able to completly work with Bulma.io, but having enough time to explore its features has gave me an idea of what to expect. 
 
 
 ### EDP
