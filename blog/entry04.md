@@ -54,6 +54,7 @@ At first it was really overwhelming when tinkering with Bulma.io because of the 
 
 ### Final Thoughts
 Despite not having all the time to review all of the Bulma.io features, I am glad enough to be able to experiment with it and see how I may use it when I do my Freedom Project Website!
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
