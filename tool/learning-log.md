@@ -1,10 +1,8 @@
 # Tool Learning Log
+## Tool: **Bulma.io**
 
-## Tool: **X**
 
----
-
-### X/X/XX:
+### 3/3/2025
 * Text
 
 ### X/X/XX:
