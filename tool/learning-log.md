@@ -41,7 +41,35 @@
 * How will I use CSS in my webpage?
 * How does the Dropdown Button work?
 
-### 3/10/2025
+### 3/11/2025
 
 * Today I tinkered with Bulma's grid system.
-* Using <a href="https://bulma.io/documentation/grid/playground/">this bulma.io page</a>, I adjusted the cells to my liking
+* Using <a href="https://bulma.io/documentation/grid/playground/">this bulma.io page</a>, I adjusted the cells to my liking.
+
+* Some Grid styles I tinkered with: 
+
+```
+ <div class="grid is-gap-1">Cell 1</div>
+-----------------------------------------------
+<div class="grid is-col-min-9">Cell 2</div>
+----------------------------------------------------------------
+This grid-changes-where-the-cells-are-depending-on-start-and-end
+<div class="fixed-grid has-4-cols">
+  <div class="grid">
+    <div class="cell">Cell 1</div>
+    <div class="cell is-col-start-3">Cell 2</div>
+    <div class="cell">Cell 3</div>
+    <div class="cell">Cell 4</div>
+    <div class="cell">Cell 5</div>
+    <div class="cell">Cell 6</div>
+  </div>
+</div>
+------------------------------------------------
+```
+
+
+##### To do:
+
+* Figure out how to apply apporiate spacing.
+* Include context for each cell.
+  
