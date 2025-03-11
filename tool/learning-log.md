@@ -43,3 +43,5 @@
 
 ### 3/10/2025
 
+* Today I tinkered with Bulma's grid system.
+* Using <a href="https://bulma.io/documentation/grid/playground/">this bulma.io page</a>, I adjusted the cells to my liking
