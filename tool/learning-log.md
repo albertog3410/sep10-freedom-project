@@ -73,3 +73,20 @@ This grid-changes-where-the-cells-are-depending-on-start-and-end
 * Figure out how to apply apporiate spacing.
 * Include context for each cell.
   
+
+### 3/19/2025
+
+* Figured out how to apply background seperately into cells without them automatically stacking on top of each other.
+* Apply to each cell its own background div class individually
+
+
+```
+   
+<div class="background">
+  
+    <div class="cell-is-col-start-2">Cell 2</div>
+</div>
+
+```
+#### Do next: 
+* Try and turn columns into their own rows.
