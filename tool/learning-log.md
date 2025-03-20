@@ -90,3 +90,4 @@ This grid-changes-where-the-cells-are-depending-on-start-and-end
 ```
 #### Do next: 
 * Try and turn columns into their own rows.
+* Tinker with block element(shown to add spacing) 
