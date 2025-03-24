@@ -91,3 +91,44 @@ This grid-changes-where-the-cells-are-depending-on-start-and-end
 #### Do next: 
 * Try and turn columns into their own rows.
 * Tinker with block element(shown to add spacing) 
+
+
+### 3/24/2025
+
+##### Practicing Using Columns
+
+* Each column can equally adjust itself no matter the amount of columns there are depending on how you set up each individual column.
+* Below this, each vertically alines with each other on big screens and horizonally on smaller screens. 
+
+```
+
+<div class="columns">
+  <div class="column">First column</div>
+  <div class="column">Second column</div>
+  <div class="column">Third column</div>
+  <div class="column">Fourth column</div>
+</div>
+
+```
+
+* There are ways to adjust the spacing of a column, using one of the following classes
+* `is-three-quarters` `is-two-thirds` `is-half` `is-one-third` `is-one-quarter` `is-full`.
+* From numbers 1-12, the grid system divids columns into 12. Size classes is `is-#1-12`
+* You can use this grid system to offset the position of certain columns.
+
+ ```
+Column is half sized and is placed at one quarter of the screen
+-----------------------------------------------------------------
+<div class="columns is-mobile">
+  <div class="column is-half is-offset-one-quarter"></div>
+</div>
+```
+
+
+```
+
+<div class="columns is-mobile">
+  <div class="column is-4 is-offset-8"></div>
+</div>
+
+```
