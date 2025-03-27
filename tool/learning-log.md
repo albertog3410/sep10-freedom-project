@@ -126,4 +126,48 @@ Column is half sized and is placed at one quarter of the screen
 
 ### 3/27/2025
 
+* Today I have took a break from making my practice website and made a seperate html file to tinker with bulma elements and components seperately.
+* Columns automatically stack on top of each other on mobile. Putting a `is-mobile` will prevent that.
+* There are other responsiveness methods for implementing breakpoints such as:
+
+
+  - `is-desktop`
+  - `is-mobile`
+  - `is-tablet`
+  - `is-widescreen`
+  - `is-fullhd`
+
+
+* There are two ways to make the columns take up a certain space at a certain breakpoint.
+
+ 
+ ```
+Via fractions
+--------------
+is-three-quarters
+is-two-thirds
+is-half
+is-one-third
+is-one-quarter
+is-full
+```
+ 
+```
+ Via percentages
+ ----------------
+is-four-fifths
+is-three-fifths
+is-two-fifths
+is-one-fifth
+```
+
+
+
+* To put a gap between columns, put `is-(1-8)`
+* `is-0` will remove any gap (similar to is-gapless).
+* `is-3`is the default value, equivalent to the 0.75rem value.
+* `is-8` is the maximum gap of 2rem.
+
+* `  <p class="bd-notification is-primary">` Lets larger texts in columns be vertically alined.
 * 
+  
