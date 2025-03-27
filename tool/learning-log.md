@@ -124,11 +124,6 @@ Column is half sized and is placed at one quarter of the screen
 </div>
 ```
 
+### 3/27/2025
 
-```
-
-<div class="columns is-mobile">
-  <div class="column is-4 is-offset-8"></div>
-</div>
-
-```
+* 
