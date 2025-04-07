@@ -169,5 +169,10 @@ is-one-fifth
 * `is-8` is the maximum gap of 2rem.
 
 * `  <p class="bd-notification is-primary">` Lets larger texts in columns be vertically alined.
+
+
+
+  ### 4/8/2025
+
 * 
   
