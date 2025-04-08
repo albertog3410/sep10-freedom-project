@@ -174,4 +174,6 @@ is-one-fifth
 
   ### 4/9/2025
 * Reconmended to use smaller pieces of text, less than a paragraph for columns to properly align left and right `<div class="column-is-size-5 has-text-left-desktop">`.
-* <div class="column is-size-2(Original size)  is-size-1-desktop(At this size at desktop px) has-text-centered">Hello World And Welcome to Website</div>
+* `<div class="column is-size-2(Original size)  is-size-1-desktop(At this size at desktop px) has-text-centered">Hello World And Welcome to Website</div>`
+
+* 
