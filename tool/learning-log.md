@@ -180,5 +180,5 @@ is-one-fifth
   ### 4/9/2025
 ##### Space Helpers
 * <a href="https://bulma.io/documentation/helpers/spacing-helpers/"> Here is a list of Bulma Spacing </a>
-* To implement regular HTML elements make sure to put <div class="content">
+* To implement regular HTML elements make sure to put `<div class="content">`.
 * 
