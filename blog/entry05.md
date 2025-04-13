@@ -98,10 +98,24 @@ Acts as a navbar at the top of a webpage
 
 ### Skills that I have Learned
 
-Getting to understand Bulma was not easy,
- 
+Getting to understand Bulma was not easy, there were many instances where I got stuck and learned from them, one the major times was when I was practicing using <strong>Columns</strong> in my webpage. At first I did not understand how to implement its responsiveness properly, the alignment of the content always seem off. I was so confused and wanted to give up on tinkering with the columns. That was when I found out about <strong>`is-narrow` columns</strong>. Narrow columns can allow you to change the width and height of a column to your liking, letting the next column take up the remaining space. 
 
-There was this one component in particular that I have practiced more using because I did not fully understand it called <strong> Columns </strong>. At first I did not understand how to implement its responsiveness properly, the alignment of the content always seem off. 
+```
+<div class="columns">
+  <div class="column is-narrow">
+    <div class="box" style="width: 200px">
+      <p class="title is-5">Narrow column</p>
+      <p class="subtitle">This column is only 200px wide.</p>
+    </div>
+  </div>
+```
+
+From this, I have learned to <strong> be patient in my learning and how to comprehend new material</strong>, which has helped me learn more about Bulma.io. So whenever I got stuck during my time tinkerwing with Bulma, I have found a <a href="https://www.youtube.com/watch?v=SCSAExGFK1E&t=245s">series of videos</a> on youtube that go through the basics on how to use bulma. 
+
+### Final Thoughts
+
+Despite not having all the time to review all of the Bulma.io features, I am glad enough to manage to learn more about my chosen tool, so that I can use it when I start on creating my Freedom Project Website!
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
