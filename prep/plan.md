@@ -15,7 +15,11 @@
 
 
 ## Timeline
-*  
+
+### 4/30
+* Add Main Page Content and Navbar
+* Create different pages for future required content 
+* 
 
 #### MVP
 
