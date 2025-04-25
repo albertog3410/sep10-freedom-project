@@ -19,7 +19,22 @@
 ### 4/30
 * Add Main Page Content and Navbar
 * Create different pages for future required content 
-* 
+* Put required content for each page
+
+### 5/1
+* Add Bootstrap Navbar for main page that links to each page
+* Add Bulma mixin class to Software and Hardware pages
+* Add Bulma navbar for each page
+
+### 5/2
+
+* Adjust content to be shown as it is in desktop and mobile wireframes.
+* Add colors to background and images for buulma mixin classes.
+
+### 5/3
+
+* Continue to adjust the placement of content(if not finished on 5/2)
+* Check to see if I can go ahead and do a beyond MVP task
 
 #### MVP
 
@@ -29,7 +44,8 @@
 
 #### Beyond MVP
 
-* Task
+* Implement a new Bootstrap component
+* 
 
 
 
