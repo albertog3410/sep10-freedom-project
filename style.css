@@ -6,9 +6,10 @@ h2 {
     padding-top: 80px;
      padding-left: 40px;
      padding-right: 20px;
-     padding-bottom: 20px;
+     padding-bottom: 180px;
      text-align: center;
-      background-color: #26ff37;
+      background-color: #7c7cf8;
+      font-size: 60px;
   }
   .middle-content-1 {
     padding-top: 40px;
@@ -26,4 +27,10 @@ h2 {
      padding-bottom: 20px;
      background-color: cyan;
 
+  }
+  .bulma-navbar {
+    height: 100px;
+   width: 500px;
+margin: auto;
+font-size: 15px;
   }
