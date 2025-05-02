@@ -9,6 +9,13 @@
 * `#b7e7ed` - light blue
 * `#eff5a2` - light yellow
 * `#26ff37` - green
+
+  ### Idea for color template
+* #f8f8f8	(248,248,248) white
+* #babaf8	(186,186,248) light blue
+* #7c7cf8	(124,124,248) slightly darker blue
+* #3e3ef8	(62,62,248) dark blue 1
+* #0000f8	(0,0,248) normal blue
 ## Fonts
 * [Merriweather](https://fonts.googleapis.com/css2family=Butcherman&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fontdiner+Swanky&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tagesschrift&family=Teko:wght@300..700&display=swap)
 * [Public Sans](https://fonts.googleapis.com/css2?family=Butcherman&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fontdiner+Swanky&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tagesschrift&family=Teko:wght@300..700&display=swap)
