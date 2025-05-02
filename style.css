@@ -1,5 +1,6 @@
 h2 {
     color: #14017d;
+    text-align: center;
   }
 
   .top-position {
@@ -29,8 +30,12 @@ h2 {
 
   }
   .bulma-navbar {
-    height: 100px;
-   width: 500px;
-margin: auto;
-font-size: 15px;
+font-size: 23px;
+padding-top: 80px;
+padding-bottom: 80px;
+left: 250px;
+position: relative;
   }
+
+
+
