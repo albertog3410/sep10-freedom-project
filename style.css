@@ -1,5 +1,5 @@
 h2 {
-    color: ;
+    color: #3e3ef8!important;
     text-align: center;
   }
 
@@ -18,9 +18,8 @@ h2 {
      padding-left: 15px;
    padding-right: 15px;
      background-color: #f8f8f8;
-     font-size: 30px;
      color: #7c7cf8;
-
+     font-size: 25px;
   }
   .middle-content-2 {
     padding-top: 80px;
@@ -28,8 +27,8 @@ h2 {
      padding-left: 15px;
      padding-right: 15px;
      background-color: #f8f8f8;
-     font-size: 25px;
      color: #7c7cf8;
+     font-size: 25px;
 
   }
 
@@ -38,9 +37,9 @@ h2 {
      padding-bottom: 80px;
      padding-left: 15px;
      padding-right: 15px;
-     background-color: ;
-     font-size: 30px;
+     background-color: #f8f8f8;
      color: #7c7cf8;
+     font-size: 25px;
   }
   .bulma-navbar {
 font-size: 23px;
@@ -50,22 +49,37 @@ left: 250px;
 position: relative;
   }
 
-  .box-1 {
-    border-color: #1E90FF;
- border-width: 5px;
- border-style:solid;
- padding: 2px 4px 2px 4px;
-border-radius: 10px;
-padding-left: 15px;
-padding-right: 15px;
+  .content-4 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
+  background-color: #f8f8f8;
+     color: #7c7cf8;
+     font-size: 25px;
+  }
+
+  .content-5 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 15px;
+  padding-right: 15px;
+ color: #7c7cf8!important;
+ font-size: 25px!important;
+ background-color: #f8f8f8;
   }
 
 
-  .box-2 {
+  .box {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
     border-color: #1E90FF;
- border-width: 5px;
- border-style:solid;
- padding: 2px 4px 2px 2px;
-border-radius: 10px;
-  }
-
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 20px;
+   color: #7c7cf8!important;
+   font-size: 20px!important;
+   background-color: #f8f8f8;
+    }
