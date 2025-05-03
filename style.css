@@ -1,5 +1,5 @@
 h2 {
-    color: #14017d;
+    color: ;
     text-align: center;
   }
 
@@ -9,25 +9,32 @@ h2 {
      padding-right: 20px;
      padding-bottom: 180px;
      text-align: center;
-      background-color: #7c7cf8;
+      background-color: #E5F3FD;
       font-size: 60px;
   }
   .middle-content-1 {
-    padding-top: 40px;
-     padding-left: 40px;
-     padding-right: 20px;
-     padding-bottom: 20px;
-     background-color: yellow;
+    padding-top: 80px;
+     padding-bottom: 80px;
+     background-color: #f8f8f8;
+     font-size: 30px;
+     color: #7c7cf8;
+
+  }
+  .middle-content-2 {
+    padding-top: 80px;
+     padding-bottom: 80px;
+     background-color: #f8f8f8;
+     font-size: 30px;
+     color: #7c7cf8;
 
   }
 
-  .middle-content-2 {
-    padding-top: 40px;
-     padding-left: 40px;
-     padding-right: 20px;
-     padding-bottom: 20px;
-     background-color: cyan;
-
+  .middle-content-3 {
+    padding-top: 80px;
+     padding-bottom: 80px;
+     background-color: ;
+     font-size: 30px;
+     color: #7c7cf8;
   }
   .bulma-navbar {
 font-size: 23px;
@@ -37,5 +44,20 @@ left: 250px;
 position: relative;
   }
 
+  .box-1 {
+    border-color: #1E90FF;
+ border-width: 5px;
+ border-style:solid;
+ padding: 2px 4px 2px 4px;
+border-radius: 10px;
+  }
 
+
+  .box-2 {
+    border-color: #1E90FF;
+ border-width: 5px;
+ border-style:solid;
+ padding: 2px 4px 2px 2px;
+border-radius: 10px;
+  }
 
