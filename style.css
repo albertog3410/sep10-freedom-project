@@ -3,6 +3,9 @@ h2 {
     text-align: center;
   }
 
+  h1 {
+color: #59240a;
+  }
   .top-position {
     padding-top: 80px;
      padding-left: 40px;
@@ -83,3 +86,49 @@ position: relative;
    font-size: 20px!important;
    background-color: #f8f8f8;
     }
+    .content-6 {
+      padding-top: 80px;
+      padding-bottom: 80px;
+      padding-left: 15px;
+      padding-right: 15px;
+    background-color: #f8f8f8;
+       color: #7c7cf8;
+       font-size: 25px;
+    }
+
+    .content-7 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
+   color: #7c7cf8!important;
+   font-size: 25px!important;
+   background-color: #f8f8f8;
+    }
+
+
+    .content-8 {
+      padding-top: 80px;
+      padding-bottom: 80px;
+     color: #7c7cf8!important;
+     font-size: 15px!important;
+     background-color: #f8f8f8;
+      }
+
+
+      .content-9 {
+        padding-top: 80px;
+        padding-bottom: 80px;
+       color: #7c7cf8!important;
+       font-size: 15px!important;
+       background-color: #f8f8f8;
+
+        }
+
+        .content-10 {
+          padding-top: 80px;
+          padding-bottom: 80px;
+         color: #7c7cf8!important;
+         font-size: 15px!important;
+         background-color: #f8f8f8;
+          }
