@@ -6,6 +6,21 @@ h2 {
   h1 {
 color: #59240a;
   }
+
+
+  @media (max-height: 576px) {
+
+  .top-position {
+    padding-top: 80px;
+     padding-left: 40px;
+     padding-right: 20px;
+     padding-bottom: 180px;
+     text-align: center;
+      background-color: #E5F3FD;
+      font-size: 40px;
+     }
+
+
   .top-position {
     padding-top: 80px;
      padding-left: 40px;
@@ -14,6 +29,9 @@ color: #59240a;
      text-align: center;
       background-color: #E5F3FD;
       font-size: 60px;
+
+
+
   }
   .middle-content-1 {
     padding-top: 80px;
@@ -107,18 +125,13 @@ position: relative;
     }
 
 
-    .content-8 {
-      padding-top: 80px;
-      padding-bottom: 80px;
-     color: #7c7cf8!important;
-     font-size: 15px!important;
+    .text-content {
+     color: #3e3ef8!important;
      background-color: #f8f8f8;
       }
 
 
       .content-9 {
-        padding-top: 80px;
-        padding-bottom: 80px;
        color: #7c7cf8!important;
        font-size: 15px!important;
        background-color: #f8f8f8;
@@ -126,8 +139,6 @@ position: relative;
         }
 
         .content-10 {
-          padding-top: 80px;
-          padding-bottom: 80px;
          color: #7c7cf8!important;
          font-size: 15px!important;
          background-color: #f8f8f8;
