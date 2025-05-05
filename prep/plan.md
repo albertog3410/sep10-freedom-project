@@ -25,7 +25,7 @@
 
 ### 4/30
 * Add Main Page Content and Navbar
-* Create different pages for future required content 
+* Create different pages for future required content
 * Put required content for each page
 
 ### 5/1
@@ -52,7 +52,7 @@
 #### Beyond MVP
 
 * Implement a new Bootstrap component
-* 
+*  Add an image icon to the bootstrap navbar.
 
 
 
