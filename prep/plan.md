@@ -23,31 +23,53 @@
 
 ## Timeline
 
-### 4/30
+### 4/29
 * Add Main Page Content and Navbar
 * Create different pages for future required content
 * Put required content for each page
 
-### 5/1
+
+### 4/30
 * Add Bootstrap Navbar for main page that links to each page
 * Add Bulma mixin class to Software and Hardware pages
 * Add Bulma navbar for each page
 
-### 5/2
 
+### 5/1
 * Adjust content to be shown as it is in desktop and mobile wireframes.
 * Add colors to background and images for buulma mixin classes.
-
-### 5/3
-
+### 5/2
 * Continue to adjust the placement of content(if not finished on 5/2)
 * Check to see if I can go ahead and do a beyond MVP task
+
+
+
+
+
 
 #### MVP
 
 * Task/Timeline
 
----
+### 4/29
+* Add Main Page Content and Navbar
+* Create different pages for future required content
+* Put required content for each page
+
+
+### 4/30
+* Add Bootstrap Navbar for main page that links to each page
+* Add Bulma mixin class to Software and Hardware pages
+* Add Bulma navbar for each page
+
+
+### 5/1
+* Adjust content to be shown as it is in desktop and mobile wireframes.
+* Add colors to background and images for buulma mixin classes.
+### 5/2
+* Continue to adjust the placement of content(if not finished on 5/2)
+* Check to see if I can go ahead and do a beyond MVP task
+  
 
 #### Beyond MVP
 
