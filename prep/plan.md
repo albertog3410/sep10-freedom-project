@@ -76,6 +76,8 @@
 * Implement a new Bootstrap component
 *  Try using media queries to fix the title so it won't go off screen
 *  Put search bar on top of each webpage
+*  Adjust the way content looks on desktop
+  
 
 
 
