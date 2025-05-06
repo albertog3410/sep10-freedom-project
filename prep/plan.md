@@ -88,7 +88,7 @@
 | Darren Li | You did  a good job making the different sections go next to eachtoehr when the screen is larger. | Part of your title goes off screen when it is less than 600px wide, you could try using media queries to shrink the title when the screen is smaller so it fits on screen. |
 | William | I like how the sidebar expands from the side and covers the screen. | Have you considered that humans don't like reading from the very edge (left and right) of the page? [add margins] Also, have you considered changing the size of the title; it doesn't fit on the page when it changes to a lower screen size. What would happen if someone clicked on search and expected a result? |
 |Winnie  | Something i like is how each one haves its own page. Like the soft ware and hardware have it own page. This is realy cool.  | A suggestion would be maybe putting the search button thing on top of the page so it is more accesible to the people. Also the search thing doesnt work.|
-| -------- | ------- | ------- |
+| Rain Song | I liked how you separated you content into different pages so it's not all mushed up into one page. | Consider making your images function/ show and also I suggest you remove the search bar from the hamburger nav-bar. |
 | -------- | ------- | ------- |
 | -------- | ------- | ------- |
 | -------- | ------- | ------- |
