@@ -86,7 +86,7 @@
 
 | Name | Glows | Grows |
 | Darren Li | You did  a good job making the different sections go next to eachtoehr when the screen is larger. | Part of your title goes off screen when it is less than 600px wide, you could try using media queries to shrink the title when the screen is smaller so it fits on screen. |
-| -------- | ------- | ------- |
+| William | I like how the sidebar expands from the side and covers the screen. | Have you considered that humans don't like reading from the very edge (left and right) of the page? [add margins] Also, have you considered changing the size of the title; it doesn't fit on the page when it changes to a lower screen size. What would happen if someone clicked on search and expected a result? |
 | -------- | ------- | ------- |
 | -------- | ------- | ------- |
 | -------- | ------- | ------- |
