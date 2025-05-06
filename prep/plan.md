@@ -83,15 +83,15 @@
 
 
 
-<!-- DO NOT USE THIS YET
 
 | Name | Glows | Grows |
+| Darren Li | You did  a good job making the different sections go next to eachtoehr when the screen is larger. | Part of your title goes off screen when it is less than 600px wide, you could try using media queries to shrink the title when the screen is smaller so it fits on screen. |
 | -------- | ------- | ------- |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| -------- | ------- | ------- |
+| -------- | ------- | ------- |
+| -------- | ------- | ------- |
+| -------- | ------- | ------- |
+| -------- | ------- | ------- |
+| -------- | ------- | ------- |
 
--->
+
