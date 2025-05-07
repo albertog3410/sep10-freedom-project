@@ -4,10 +4,12 @@ h2 {
   }
 
 
-
+body {
+background-color: #b7e7ed;
+}
   h1 {
 color: #59240a;
-font-size: 80px!important;
+font-size: 90px!important;
 padding-top: 80px;
  padding-left: 40px;
 padding-right: 20px;
