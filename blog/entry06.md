@@ -23,8 +23,16 @@ In my original code, I used `../` which is taking up one directory, thinking tha
 ```
 I was confused as to why this issue was occuring, that was when I asked Mr.Mueller after class about the issue, and he said that implementing a `../` <strong>was not necessary</strong> because my webpages are already on the main of of my repo. Which means that I did not need to go up one directory to find the images I need to put in my website. 
 
-### EDP
+### Skills I learned 
+From this experience, I learned how to <strong> properly debug code on my own</strong> as well as <strong> break my tasks down into smaller pieces</strong> so that it can be easier for me to focus on what I am doing and what I need to do. 
 
+
+### EDP
+I am currently on stage seven of the Engineering Design Process, which is to <strong>Improve as Needed.</strong> On one of the last few weeks that I had to make the website, my classmates were looking over each others websites to see what we can improve on in our websites. From this, we add on to our beyond <strong>MVP(Minimum Viable Product)</strong> so that we can further develop and improve our website based on what our peers said about it. 
+
+
+### Final Thoughts and Takeaways
+I am a bit nervous because soon I am going to have to present my website to students with different grades and I often get stage freight.  At the same time, I am also excited that I can have the oppertunity to present the project that I have worked on hard throughout this year!
 
 
 [Previous](entry05.md) | [Next](entry07.md)
