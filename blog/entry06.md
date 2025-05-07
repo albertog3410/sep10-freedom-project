@@ -21,7 +21,10 @@ In my original code, I used `../` which is taking up one directory, thinking tha
  <p>This piece of hardware is responsible for processing vast amounts of graphical data in a computer</p>
 </div>
 ```
-I was confused as to why this issue was occuring, that was when I asked Mr.Mueller after class about the issue, and he said that implementing a `../` <strong>was not necessary</strong> because my webpages are already on the main of of my repo. Which means that I did not need to go up one directory. 
+I was confused as to why this issue was occuring, that was when I asked Mr.Mueller after class about the issue, and he said that implementing a `../` <strong>was not necessary</strong> because my webpages are already on the main of of my repo. Which means that I did not need to go up one directory to find the images I need to put in my website. 
+
+### EDP
+
 
 
 [Previous](entry05.md) | [Next](entry07.md)
