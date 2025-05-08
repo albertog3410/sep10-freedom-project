@@ -1,6 +1,11 @@
 h2 {
-    color: #3e3ef8!important;
+    color: #0d5bba!important;
     text-align: center;
+    font-size: 60px;
+    padding-top: 40px;
+ padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
   }
 
 
@@ -126,6 +131,8 @@ position: relative;
     .text-content {
      color: #3e3ef8!important;
      background-color: #f8f8f8;
+     padding-left: 10px;
+    padding-right: 10px;
       }
 
 
