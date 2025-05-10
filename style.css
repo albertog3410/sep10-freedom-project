@@ -148,3 +148,13 @@ position: relative;
          font-size: 15px!important;
          background-color: #f8f8f8;
           }
+
+
+
+   .left{
+float: left;
+position: absolute;
+bottom: 10px;
+left: 25px;
+
+ }
