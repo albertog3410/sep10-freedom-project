@@ -2,7 +2,6 @@
 
 ## Hook
 * Ask audience: How do you imagine someone who is a Graphic Designer? (wait for at least 2 seconds)
-* 
 * Explain that Graphic Designers are more than what people realize, instance there are graphic designers for novels you may enjoy, advertizements you see online, or even as little as the design house accessories
 
 ## Product
