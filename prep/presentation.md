@@ -36,9 +36,9 @@
    * Be Original: Don't try and do a certain tool because everyone else is.
      * I was one of the few people that decided to use bulma.io, even though I saw others say that other tools like animate.css or Jquery. 
    * Ask For Help When Needed: If you have a question about something, try asking for help on it. It is okay to be confused about something. As humans, it takes time for our brains to process new information, so having someone who is experienced with this information is helpful in learning.
-     * It took many weeks of practicing and tinkering in order for me to understand how to use bulma.io in making my website. 
+     * It took many weeks of practicing and tinkering in order for me to understand how to use bulma.io in making my website. There have been many times where I had to ask Mr. Mueller for help on various code issues. 
    * Leave audience with a Thought: Try and Think about the stuff you do in your life? What may the things you do have an affect on your friends, family, jobs, etc? 
-     * While using my tool to make the website, many of the errors I have made related to 
+     * While using my tool to make the website, many of the errors I have made related to not putting in the code correctly, there would be an `=` or `</div>` that I was missing. 
     
 
  
