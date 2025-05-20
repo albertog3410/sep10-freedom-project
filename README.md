@@ -4,21 +4,22 @@ by **X**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Graphic Design**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **<a href="https://bulma.io/documentation/start/installation/">Bulma.io**</a> in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://albertog3410.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1k4kwkzc9YKW5hxpw8--_Bp2bct3xF3-JllOVe0DIR84/edit)
 
 ## Implications
 ##### PROS
-* 
+* Expanding my knowledge about different topics
+* Expand your Creativity
 ##### CONS
-* 
+* Don't stay stuck on one thing, if you do keep moving forward.
 
 
 ## Blog
