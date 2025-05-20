@@ -11,7 +11,7 @@
 
 
 ### EDP 
-I am currently on of the Engineering Design Process, which is to <strong>Communicate the results of my website to my classmates as well as the people in the expo. 
+I am currently on of the Engineering Design Process, which is to <strong>Communicate the results</strong> of my website to my classmates as well as the people in the expo. 
 
 [Previous](entry06.md) | [Next](entry08.md)
 
