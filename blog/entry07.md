@@ -2,9 +2,7 @@
 ##### 5/20/2025
 
 ### Where I am at Now
-This week, I started to present my freedom project website in order to prepare ourselves to presenting our website projects to freshmen in the lunchroom. 
-
-
+This week, me and my class are getting ready to prepare and present our Freedom Project Website in an expo that takes place in the lunchroom.
 
 
 
