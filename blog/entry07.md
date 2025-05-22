@@ -2,7 +2,8 @@
 ##### 5/20/2025
 
 ### Where I am at Now
-This week, me and my class are getting ready to prepare and present our Freedom Project Website in an expo that takes place in the lunchroom. Before we presented our projects, each of us prepared by presenting our projects to the entire classroom. 
+This week, me and my class are getting ready to prepare and present our Freedom Project Website in an expo that takes place in the lunchroom. Before we presented our projects, each of us prepared by presenting our projects to the entire classroom. Before presenting, I created a plan of how I was going to present my website in my learning-log.md. I presented this through a series of slides that explained:
+
 
 
 
