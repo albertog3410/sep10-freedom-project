@@ -74,16 +74,15 @@
 ## Elevator Pitch
 
 ### Important
-1. What my project is about(20 seconds)
-2.  Tools that I used(
-3.
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. What my project is about(10 seconds)
+2.Say what are my takeaways (5 seconds) and explain my takeaways (20 seconds)
+ - Being creative takeaway (10 seconds)
+ - Ask for help When needed takeaway (10 seconds)
+ 
+3.  Tool that I used and what it is(8 seconds)
+4.What Graphic Designers can also be (7 seconds)
+5. Ask people what do they imagine what a graphic designer is(5 seconds) 
+6. Showing responsivenss of website: (5 seconds) 
 
 
 
@@ -93,4 +92,6 @@
 
 
 
-- Hello, my name is Alberto, when you hear that your best friend or family member has become Graphic Designer, what do you imagine them doing? [wait] Great ideas, but did you know that Graphic Designers can also be people who designed the layout of advertizements, house accessories or even this table? I present these ideas further in my website that goes over the history of graphic designers, the softwares and hardwares they use, as well as my own idea for a possible graphic design innovation. To create this website, I used an website known as Bulma.io, an alternative aframe for Bootstrap 
+### Elevator Pitch Paragraph
+
+- Hello, my name is Alberto, when you hear that your best friend or family member has become Graphic Designer, what do you imagine them doing? [wait] Great ideas, but did you know that Graphic Designers can also be people who designed the layout of advertizements, house accessories or even this table? I present these ideas further in my website that goes over the history of graphic designers, the softwares and hardwares they use, as well as my own idea for a possible graphic design innovation. To create this website, I used an website known as Bulma.io, an alternative Aframe for Bootstrap. Which I used in order to create the responsiveness of the website from this computer size to this [Show change in responsivness in website] mobile size. A takeaway that I have learned out of this experience in creating the website was to show my own creativity and to Ask for help when needed. You may see other students explain used tools such as animate.css or Jquery, which I do think are some pretty good tools to use when creating a website. However, it is also important for us as students to expand our knowledge on other websites. Especially in the career Graphic design where you have to use your creativity to create digital designs for whatever you are working on. Another takeaway I got out of this experience is to ask for help when needed. There were many instances where I had to ask Mr. Mueller for help on issues with my code. Thank you, do you have any questions?
