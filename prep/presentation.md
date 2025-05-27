@@ -69,3 +69,28 @@
 
 
 -->
+
+
+## Elevator Pitch
+
+### Important
+1. What my project is about(20 seconds)
+2.  Tools that I used(
+3.
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+
+
+
+
+
+
+
+
+- Hello, my name is Alberto, when you hear that your best friend or family member has become Graphic Designer, what do you imagine them doing? [wait] Great ideas, but did you know that Graphic Designers can also be people who designed the layout of advertizements, house accessories or even this table? I present these ideas further in my website that goes over the history of graphic designers, the softwares and hardwares they use, as well as my own idea for a possible graphic design innovation. To create this website, I used an website known as Bulma.io, an alternative aframe for Bootstrap 
