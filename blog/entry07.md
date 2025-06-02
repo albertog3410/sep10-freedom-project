@@ -15,13 +15,13 @@ This week, me and my class are getting ready to prepare and present our Freedom 
 
 
   ### Classroom Presentation Experience
-Even though I did not have enough time to present all of the ideas that I wanted to say when it was my turn to present due to me starting near the end of class.Being that the classroom was a larger environment, I felt more nervous than what I was when at the expo. However, I as I spoke I ignored the time and said what came to my mind. After my presentation, I did notice others presentations and based off what they said, I took notes on what I could do later on when I presented my project to the expo as well as a rough draft of my elevator pitch in my SEP 10 Notes.
+Even though I did not have enough time to present all of the ideas that I wanted to say when it was my turn to present due to me starting near the end of class.Being that the classroom was a larger environment, I felt more nervous than what I was when at the expo. However, I as I spoke I ignored the time and said what came to my mind. After my presentation, I did notice others presentations and based off what they said, I took notes on what I could do later on when I presented my project to the expo as well as a rough draft of my elevator pitch in my <a href="https://docs.google.com/document/d/1A2XHHZMAQzeLSCWgqWkjUZEGnJgxERoBWS8t-Opy4gI/edit?tab=t.0">SEP 10 Notes.</a>
   
 
 
 
 ###  Challenges 
-At first, I was having trouble figuring out what to put on my slides that would align with what I wanted to talk about. But as I looked through my presentation.md, I 
+At first, I was having trouble figuring out what to put on my slides that would align with what I wanted to talk about. But as I looked through my presentation.md, I made sure not to focus too much on colors and style and did my best to include the images and text that best represent what I will be talking about when I present my project to the class. 
 
 
 
