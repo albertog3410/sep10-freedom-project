@@ -15,7 +15,7 @@ This week, me and my class are getting ready to prepare and present our Freedom 
 
 
   ### Classroom Presentation Experience
-Even though I did not have enough time to present all of the ideas that I wanted to say when it was my turn to present due to me starting near the end of class, However, I as I spoke I ignored the time and say what came to my mind.
+Even though I did not have enough time to present all of the ideas that I wanted to say when it was my turn to present due to me starting near the end of class.Being that the classroom was a larger environment, I felt more nervous than what I was when at the expo. However, I as I spoke I ignored the time and said what came to my mind. After my presentation, I did notice others presentations and based off what they said, I took notes on what I could do later on when I presented my project to the expo as well as a rough draft of my elevator pitch in my SEP 10 Notes.
   
 
 
