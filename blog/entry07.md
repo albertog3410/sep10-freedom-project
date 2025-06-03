@@ -28,7 +28,7 @@ At first, I was having trouble figuring out what to put on my slides that would 
 
 
 ### EDP 
-I am currently on of the Engineering Design Process, which is to <strong>Communicate the results</strong> of my website to my classmates as well as the people who are present in the expo.
+I am currently on the last step of the Engineering Design Process, which is to <strong>Communicate the results</strong> of my website to my classmates as well as the people who are present in the expo.
 
 
 
